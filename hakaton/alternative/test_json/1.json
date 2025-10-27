@@ -1,0 +1,27 @@
+[
+    {
+      "observation_time": "2024-01-01T00:00:00Z",
+      "right_ascension": 267,
+      "declination": -24.0
+    },
+    {
+      "observation_time": "2024-01-02T00:00:00Z",
+      "right_ascension": 267.75,
+      "declination": -24.0
+    },
+    {
+      "observation_time": "2024-01-03T00:00:00Z",
+      "right_ascension": 268.5,
+      "declination": -24.0
+    },
+    {
+      "observation_time": "2024-01-04T00:00:00Z",
+      "right_ascension": 269.5,
+      "declination": -24.0
+    },
+    {
+      "observation_time": "2024-01-05T00:00:00Z",
+      "right_ascension": 270.25,
+      "declination": -24.0
+    }
+  ]

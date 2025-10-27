@@ -1,0 +1,32 @@
+[
+    {
+      "observation_time": "2024-04-10T00:00:00Z",
+      "right_ascension": 345.75,
+      "declination": -7.4
+    },
+    {
+      "observation_time": "2024-04-11T00:00:00Z",
+      "right_ascension": 346.25,
+      "declination": -7.1
+    },
+    {
+      "observation_time": "2024-04-12T00:00:00Z",
+      "right_ascension": 347,
+      "declination": -6.8
+    },
+    {
+      "observation_time": "2024-04-13T00:00:00Z",
+      "right_ascension": 347.75,
+      "declination": -6.5
+    },
+    {
+      "observation_time": "2024-04-14T00:00:00Z",
+      "right_ascension": 348.5,
+      "declination": -6.2
+    },
+    {
+      "observation_time": "2024-04-15T00:00:00Z",
+      "right_ascension": 349.25,
+      "declination": -5.9
+    }
+  ]

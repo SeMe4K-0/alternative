@@ -1,0 +1,27 @@
+[
+    {
+      "observation_time": "2025-10-25T00:00:00Z",
+      "right_ascension": 230.5,
+      "declination": -18.7
+    },
+    {
+      "observation_time": "2025-10-26T00:00:00Z",
+      "right_ascension": 230.5,
+      "declination": -18.9
+    },
+    {
+      "observation_time": "2025-10-27T00:00:00Z",
+      "right_ascension": 231.25,
+      "declination": -19.1
+    },
+    {
+      "observation_time": "2025-10-28T00:00:00Z",
+      "right_ascension": 232,
+      "declination": -19.3
+    },
+    {
+      "observation_time": "2025-10-29T00:00:00Z",
+      "right_ascension": 232.75,
+      "declination": -19.5
+    }
+  ]
